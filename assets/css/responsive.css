@@ -187,6 +187,17 @@
     }
 }
 
+@media (max-width: 667px) {
+    .copyright_text {
+        position: relative; 
+        top:100px;
+    }
+    
+    .main_footer p {
+        left: 260px;
+    }
+}
+
 
 @media (max-width: 320px) {
 
