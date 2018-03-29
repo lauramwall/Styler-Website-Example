@@ -671,6 +671,7 @@ h1 span {
 .funbutton {
     border: 2.3px solid black;
     width:310px;
+    background-color:white!important;
 }
 
 .funbutton:hover {
