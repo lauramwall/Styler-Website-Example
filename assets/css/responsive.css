@@ -179,13 +179,15 @@
         height:250px;
         overflow: hidden;
     }
+
+    /*
     .main_footer p {
         left: 120px;
     }
     .main_footer .styler_logo {
-        /* left:270px; */
-    }
-}
+        /* left:270px; */ 
+    /*
+}*/
 
 @media (max-width: 667px) {
     .copyright_text {
@@ -193,8 +195,9 @@
         top:100px;
     }
     
-    .main_footer p {
-        left: 260px;
+    .footer_logo .styler {
+        text-align: center;
+        align-content: center;
     }
 }
 
