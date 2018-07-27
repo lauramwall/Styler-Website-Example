@@ -1,4 +1,4 @@
-# Styler Website Example (https://lauramwall.github.io/Styler-Website-Example/)
+# Styler Website Example (<a href="https://lauramwall.github.io/Styler-Website-Example/" target="_blank">LINK</a>)
 
 This project was born from an idea that I had of a subscription-based clothing company. This is a fictional project that I created in my free time around April of 2018.
 
