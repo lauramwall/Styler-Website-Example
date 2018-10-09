@@ -10,8 +10,9 @@ This project was born from an idea that I had of a subscription-based clothing c
   <li>Bootstrap</li>
   <li>JavaScript/jQuery</li>
   <li>FontAwesome</li>
-  <li>Google Font API</li>
+  <li>Google Font CDN</li>
   <li>Brackets.io</li>
+  <li><a href="https://autoprefixer.github.io/">Autoprefixer CSS</a></li>
 </ul>
 
 # Screencap
